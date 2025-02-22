@@ -4,7 +4,8 @@ class Test
     {
         System.out.println("My name is ");
     }
-    {
-        System.out.println("Rahul.");
+   { System.out.println("Rahul.");
+    }} {
+        System.out.println("SIngh.");
     }
-}
+
