@@ -8,4 +8,8 @@ class HelloWorld {
     {
         System.out.println("rahul, singh");
     }
+
+    {
+        System.out.println("rahul, singh");
+    }
 }
