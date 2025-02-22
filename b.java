@@ -11,5 +11,7 @@ class HelloWorld {
     {
         System.out.println("rahul, hajari");
     }
+    {
+        System.out.println("rahul, gaur");
+    }
 }
-
